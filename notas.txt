@@ -1,0 +1,22 @@
+Doc:
+
+https://docs.streamlit.io/
+
+
+Você será guiado por uma série de perguntas para configurar o pyproject.toml. Aqui estão algumas das perguntas típicas e sugestões de respostas:
+
+Package name: (nome do pacote/projeto, por exemplo, meu_projeto)
+Version: (versão inicial do seu projeto, por exemplo, 0.1.0)
+Description: (descrição breve do projeto)
+Author: (seu nome e e-mail, por exemplo, Seu Nome <seuemail@exemplo.com>)
+License: (licença do projeto, por exemplo, MIT)
+Compatible Python versions: (versões do Python que o projeto suporta, por exemplo, ^3.8)
+Para cada pergunta, você pode pressionar Enter para aceitar o valor padrão ou digitar sua resposta personalizada.
+
+Você também será perguntado se deseja adicionar dependências do projeto. Você pode adicionar dependências agora ou pular esta etapa e adicioná-las mais tarde.
+
+Passo 3: Revisão e Confirmação
+Após responder todas as perguntas, você verá um resumo da configuração do pyproject.toml.
+Se tudo estiver correto, digite yes para confirmar e gerar o arquivo.
+Passo 4: Adicione Dependências (Opcional)
+Se você não adicionou dependências durante a inicialização ou deseja adicionar novas dependências, você pode fazer isso usando o comando poetry add:
